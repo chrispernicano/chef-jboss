@@ -7,6 +7,7 @@
 # license Apache v2.0
 #
 
+jboss_parent = node['jboss']['jboss_parent']
 jboss_home = node['jboss']['jboss_home']
 jboss_user = node['jboss']['jboss_user']
 
